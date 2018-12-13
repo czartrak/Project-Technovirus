@@ -1,0 +1,19 @@
+outfit "Technovirus Core Module"
+    category "Systems"
+    cost 775000
+    thumbnail "outfit/unknown"
+    "mass" 24
+    "outfit space" -28
+    "automaton" 1
+    "cannot be reinstalled" -1
+    description "The heart of a technovirus ship. These modules control every action of a vessel infected by the Korath's invention. Because the technovirus ships aren't conventional automata, these modules are built into the ships. The removal of one will completely cripple the ship."
+outfit "Technovirus Light Core Module"
+    category "Systems"
+    cost 40000
+    thumbnail "thumbnail/unknown"
+    "mass" 2
+    "outfit space" -1
+    "automaton" 0.1
+    "unplunderable" 1
+    "cannot be reinstalled" -1
+    description "Because some very small Technovirus ships may not be capable of carrying a full size Core Module, very small ones were created to compensate. However, 10 of them are required to function properly in a ship, and cannot be uninstalled, like its bigger cousin."
