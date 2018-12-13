@@ -306,4 +306,4 @@ ship "Technovirus Bulk Freighter"
 	explode "large explosion" 35
 	explode "huge explosion" 20
 	"final explode" "final explosion large"
-	description "Two-thirds of this Bulk Freighter's cargo space has been brutally converted into outfit space
+	description "Two-thirds of this Bulk Freighter's cargo space has been brutally converted into outfit space by the technovirus, transforming the freighter into a frighteningly-powerful warship harboring four guns and six turrets."
