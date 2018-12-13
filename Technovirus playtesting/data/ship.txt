@@ -230,8 +230,8 @@ ship "Technovirus Splinter"
     explode "large explosion" 10
     "final explode" "final explosion medium"
     description "Many of the Technovirus-infected ships have been pushed into a capital-ship role- slow, indestructible and heavy-hitting. The Technovirus Splinter fits the opposite role. It is much weaker than most Technovirus-infected ships, but flies much, much faster than any other vessel in space."
-	
-	ship "Technovirus Bounder"
+
+ship "Technovirus Bounder"
     sprite "ships/technobounder"
     attributes
         category "Light Warship"
