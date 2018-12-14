@@ -1,59 +1,21 @@
+outfit "Technovirus Core Module"
+    category "Systems"
+    cost 775000
+    thumbnail "outfit/unknown"
+    "mass" 24
+    "outfit space" -28
+    "automaton" 1
+    "cannot be reinstalled" -1
+    description "The heart of a technovirus ship. These modules control every action of a vessel infected by the Korath's invention. Because the technovirus ships aren't conventional automata, these modules are built into the ships. The removal of one will completely cripple the ship."
+
 outfit "Technovirus Core (Light)"
-	plural "Technovirus Core Modules (Light)"
-	category "Systems"
-	cost 40000
-	thumbnail "thumbnail/unknown"
-	"mass" 7
-	"outfit space" -7
-	"automaton" 1
-	"unplunderable" 1
-	"cannot be reinstalled" -1
-	description "Because some very small Technovirus ships may not be capable of carrying a larger size Core Module, very small ones were created with only automative functions to compensate."
-
-outfit "Technovirus Core (Small)"
-	plural "Technovirus Cores (Small)"
-	category "Systems"
-	cost 1600000
-	thumbnail "outfit/small systems core"
-	"mass" 30
-	"outfit space" -30
-	"shield generation" 1.5
-	"shield energy" 2.25
-	"hull repair rate" 0.16
-	"hull energy" 0.16
-	"hull heat" 0.24
-	"energy capacity" 1200
-	"automation" 1
-	description "The Systems Cores have been modified by the Technovirus in order to efficiently sustain the ships that they have infected in their home territory. This one is the smallest variant, it is less effective compared to the normal variant to make room for the automation technology."
-
-outfit "Technovirus Core (Medium)"
-	plural "Technovirus Cores (Medium)"
-	category "Systems"
-	cost 3800000
-	thumbnail "outfit/medium systems core"
-	"mass" 45
-	"outfit space" -45
-	"shield generation" 2.5
-	"shield energy" 3.75
-	"hull repair rate" 0.333
-	"hull energy" 0.333
-	"hull heat" .5
-	"energy capacity" 2100
-	"automation" 1
-	description "This is a Medium Systems Core that has been transformed to sustain Technovirus ships. Like all other variants, they are less effective than their original forms, to make way for automation technology."
-
-outfit "Technovirus Core (Large)"
-	plural "Technovirus Cores (Large)"
-	category "Systems"
-	cost 9200000
-	thumbnail "outfit/large systems core"
-	"mass" 85
-	"outfit space" -85
-	"shield generation" 5.6
-	"shield energy" 8.5
-	"hull repair rate" 0.68
-	"hull energy" 0.86
-	"hull heat" 1.02
-	"energy capacity" 5000
-	"automation" 1
-	description "This is a Large Systems Core that has been converted by the Technovirus. Like other variants, it sacrifices effectivity to automate the ship it is equipped on."
+    plural "Technovirus Core Modules (Light)"
+    category "Systems"
+    cost 40000
+    thumbnail "thumbnail/unknown"
+    "mass" 3
+    "outfit space" -3
+    "automaton" 1
+    "unplunderable" 1
+    "cannot be reinstalled" -1
+    description "Because some very small Technovirus ships may not be capable of carrying a larger size Core Module, very small ones were created with only automative functions to compensate."
