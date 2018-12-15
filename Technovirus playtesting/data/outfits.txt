@@ -77,4 +77,4 @@ outfit "Technovirus Jailer"
 		"hull damage" 150
 		"slowing damage" 60
 		"blast radius" 20
-	description "A Korath Detainer that has been modified heavily by the technovirus to increase its potency drastically. Your only saving grace is its reduced velocity. Run while you still can."
+	description "A Korath Detainer that has been modified heavily by the technovirus to increase its potency drastically. Your only saving grace, you realize, is in its marginally-reduced velocity. Run while you still can."
