@@ -66,8 +66,8 @@ outfit "Technovirus Jailer"
 		"inaccuracy" .5
 		"velocity" 8
 		"lifetime" 180
-		"reload" 75
-		"burst reload" 4
+		"reload" 48
+		"burst reload" 20
 		"burst count" 5
 		"firing energy" 800
 		"firing force" 120
