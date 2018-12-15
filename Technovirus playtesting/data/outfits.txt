@@ -26,9 +26,9 @@ outfit "Technovirus Ratifier"
 	category "Guns"
 	cost 306000
 	thumbnail "outfit/ratifier"
-	"mass" 14
-	"outfit space" -14
-	"weapon capacity" -14
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
 	"energy capacity" 150
 	"gun ports" -1
 	weapon
